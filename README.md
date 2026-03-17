@@ -91,3 +91,15 @@ Hyperparameter Tuning results are saved in _hyperparameter_Tuning*_.
 
 ## visualize.py
 Example script to generate graphs from generated training/test results.
+
+## Main scripts
+The main scripts used in the repository are:
+- `run.py` for training,
+- `test.py` for evaluation,
+- `tuning.py` for hyperparameter tuning,
+- `createSplit.py` for generating surgical split definitions.
+
+Before running the experiments, please adapt the relevant paths in the scripts to your local system, in particular for:
+- dataset locations,
+- split files,
+- checkpoint directories.
