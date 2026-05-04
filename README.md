@@ -103,3 +103,23 @@ Before running the experiments, please adapt the relevant paths in the scripts t
 - dataset locations,
 - split files,
 - checkpoint directories.
+
+
+## Citation
+
+If you use this repository, parts of the code, or build upon this work in your research, please cite:
+
+Bajraktari F, Asmußen R, Giacoppo GA, Pott PP. Few-shot learning for surgical phase recognition: Performance and generalization in cholecystectomy. Computer Methods and Programs in Biomedicine. 2026;282:109386. doi:10.1016/j.cmpb.2026.109386
+
+### BibTeX
+
+```bibtex
+@article{Bajraktari_2026,
+  author  = {Bajraktari, Flak{\"e} and Asmu{\ss}en, Robert and Giacoppo, Giuliano A. and Pott, Peter P.},
+  title   = {Few-shot learning for surgical phase recognition: Performance and generalization in cholecystectomy},
+  journal = {Computer Methods and Programs in Biomedicine},
+  volume  = {282},
+  pages   = {109386},
+  year    = {2026},
+  doi     = {10.1016/j.cmpb.2026.109386}
+}
